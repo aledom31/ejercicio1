@@ -20,6 +20,7 @@ public class ENDES {
         
         //ESCRIBE AQUI TU NOMBRE
         System.out.println("Alejandro Domínguez");
+        System.out.println("22");
     }
 
 }
